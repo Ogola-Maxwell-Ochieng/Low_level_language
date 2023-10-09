@@ -5,11 +5,8 @@
 **C** Low-Level Programming Repository! This repository is designed and formulated to provide a structured and comprehensive resource for low-level programming using the C programming language.
 
 <img src="https://github.com/Ogola-Maxwell-Ochieng/Low_level_language/blob/main/Images/Low-level-language.jpg" width="200" height="200" />
-<<<<<<< HEAD
-
-=======
->>>>>>> e145ec5b74b6d1879ebf95f23e4e1e413ab4e673
-
+  
+  
 ## Table of Contents
 
 - [Introduction](#introduction)
